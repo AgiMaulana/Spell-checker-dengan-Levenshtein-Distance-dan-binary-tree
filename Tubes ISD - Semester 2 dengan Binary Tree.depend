@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1430943665 source:d:\programming\c++\tubes isd - semester 2 dengan binary tree\main.cpp
+	<iostream>
+	<windows.h>
+	<string>
+	<conio.h>
+	"spellchecker.h"
+
+1430939083 d:\programming\c++\tubes isd - semester 2 dengan binary tree\spellchecker.h
+	<iostream>
+
+1431424746 source:d:\programming\c++\tubes isd - semester 2 dengan binary tree\spellchecker.cpp
+	<iostream>
+	<string>
+	<string.h>
+	<windows.h>
+	<sstream>
+	<stack>
+	"spellchecker.h"
+
